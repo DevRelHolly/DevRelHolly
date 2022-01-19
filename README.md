@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevRelHolly
+- 👋 Hi, I’m @DevRelHolly. I'm the Director of DevRel at Shipyard: https://shipyard.build/
 - 👀 I’m interested in DevRel
 - 🌱 I’m currently learning more about DevOps, CI/CD, QA Testing, Product Design, Kubernetes, Docker, and GitHub.
 - 💞️ I’m looking to collaborate with influencers and developer advocates in this space.
